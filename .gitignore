@@ -6,7 +6,7 @@
 *.tsv
 *.xlsx
 *.xls
-
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
