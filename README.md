@@ -10,6 +10,42 @@ For each year download a csv file containing "Project terms” and “Total Cost
 
 Remove rows where Project Terms or Total Cost are empty.
 
+2015
+- Rows removed: 580
+- 9,484 grants
+- # unique keywords
+- Total funding: $3,774,359,436
+
+2016
+- Rows removed: 558
+- 1,0502 grants
+- # unique keywords
+- Total funding: $4,477,508,466
+
+2017
+- Rows removed: 342
+- 10,472 grants
+- # unique keywords
+- Total funding: $4,824,194,380
+
+2018
+- Rows removed: 514
+- 11,533 grants
+- # unique keywords
+- Total funding: $5,097,004,938
+
+2019
+- Rows removed: 574
+- 11,769 grants
+- # unique keywords
+- Total funding: $6,163,816,348
+
+2020
+- Rows removed: 952
+- 12,142 grants
+- # unique keywords
+- Total funding: $5,935,565,816
+
 2021
 - Rows removed: 532
 - 11,279 grants
